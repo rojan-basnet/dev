@@ -41,7 +41,6 @@ i{
     color:hsl(350, 100%, 78%);
 }
 #response{
-    border:1px solid;
     font-size: 2rem;
     padding:20px 20px;
     border-radius: 10px;
