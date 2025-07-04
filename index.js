@@ -11,9 +11,6 @@ icon.addEventListener('click',()=>{
 let moved=false;
 function big(){
     
-    yes.style.fontSize="1.2rem";
-    no.style.fontSize=".9rem";
-    
     if(!moved){
         no.style.position='relative';
         no.style.left='50px';
